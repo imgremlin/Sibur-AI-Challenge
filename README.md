@@ -4,7 +4,7 @@
 
 * Sibur Challenge 2020, 2nd task
 * Task: Text Similarity, NLP
-* Date: February 2020
+* Date: November-December 2020
 
 ## Awards
 
