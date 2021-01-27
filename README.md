@@ -12,7 +12,7 @@
 
 ## Authors
 * Oleksii Tsepa
-* Andriy Samoshin
+* Andriy Samoshyn
 
 ## Links
 * [Competition website](https://sibur.ai-community.com/competitions/4)
